@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/morgan-s-brain/morgan-s-note-cards/the-silva-method/","tags":["books","on/psychology/SilvaMethod","gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/morgan-s-brain/morgan-s-note-cards/the-silva-method/","tags":["books","on/psychology/SilvaMethod","gardenEntry"]}
 ---
 
-## Technique structure: 
+## Silva Method Technique Structure: 
 1. **Enter [[Morgan's Brain/Morgan's Note Cards/alpha state\|Alpha State]]** 
 	1. [[Morgan's Brain/Morgan's Note Cards/eyes up to 20 degrees to access alpha state\|eyes up to 20 degrees to access alpha state]] 
 	2. [[Morgan's Brain/Morgan's Note Cards/Forty-Day Countdown System for Finding the Alpha Level - Appendix B - Silva Choose Success Master Course\|counting down from 100]]   
