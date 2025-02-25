@@ -485,7 +485,7 @@ Test marketable ideas with content first. Paint a picture of a solution and get 
 Reduce the likelyhood of competing duplicates and managing multiple retailers.
 The more competing resellers there are, the faster your product goes extinct.
 
-[[muse math\|muse math]]
+[[Morgan's Brain/Morgan's Note Cards/Muse\|muse math]] 
 [[Morgan's Brain/Morgan's Note Cards/total accessible market (TAM)\|total accessible market (TAM)]]
 I determined the market size of a recent product, see “Muse Math” on this book’s companion site. 
 brainstorm or find products with these two markets in mind.
