@@ -5,8 +5,8 @@
 Welcome to my second brain and AI training data. 
 
 Prospective clients can find me here: 
-[LinkedIn Profile](https://www.linkedin.com/in/morgantschofield/)
-[Growth Mentors Profile](https://app.growthmentor.com/mentors/morgan-schofield)
+- [Morgan's LinkedIn Profile](https://www.linkedin.com/in/morgantschofield/)
+- [Morgan's Growth Mentors Profile](https://app.growthmentor.com/mentors/morgan-schofield)
 
 ## Silva Method
 [[Morgan's Brain/Morgan's Note Cards/The Silva Method\|The Silva Method]]
