@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/morgan-s-brain/morgan-s-note-cards/the-silva-method/","tags":["books","on/psychology/SilvaMethod","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/morgan-s-brain/morgan-s-note-cards/the-silva-method/","tags":["books","on/psychology/SilvaMethod"]}
 ---
 
 ## Silva Method Technique Structure: 
