@@ -2,15 +2,19 @@
 {"dg-publish":true,"permalink":"/morgan-s-published-vault/morgan-s-second-home/","tags":["gardenEntry"]}
 ---
 
-Welcome to my second brain and AI training data. 
+# Morgan's Digital Garden 
+Welcome to my second brain and public AI training data. 
+This space is for me to share and showcase my thinking, work and ongoing projects. 
+
+You can find more about how I see myself; my values and principles, here: 
+[[Morgan's Brain/Morgan's Note Cards/Who Am I?\|Who Am I?]] 
 
 Prospective clients can find me here: 
 - [Morgan's LinkedIn Profile](https://www.linkedin.com/in/morgantschofield/)
 - [Morgan's Growth Mentors Profile](https://app.growthmentor.com/mentors/morgan-schofield)
 
-## Silva Method
-[[Morgan's Brain/Morgan's Note Cards/The Silva Method\|The Silva Method]]
-
+## [[Morgan's Brain/Morgan's Note Cards/The Silva Method\|The Silva Method]]
+ 
  **Techniques to enter [[Morgan's Brain/Morgan's Note Cards/alpha state\|Alpha State]]**:  
 	1. [[Morgan's Brain/Morgan's Note Cards/eyes up to 20 degrees to access alpha state\|eyes up to 20 degrees to access alpha state]] 
 	2. [[Morgan's Brain/Morgan's Note Cards/Forty-Day Countdown System for Finding the Alpha Level - Appendix B - Silva Choose Success Master Course\|counting down from 100]]   
