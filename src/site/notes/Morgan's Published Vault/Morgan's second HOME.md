@@ -13,6 +13,9 @@ Prospective clients can find me here:
 - [Morgan's LinkedIn Profile](https://www.linkedin.com/in/morgantschofield/)
 - [Morgan's Growth Mentors Profile](https://app.growthmentor.com/mentors/morgan-schofield)
 
+## [[Morgan's Brain/Morgan's Note Cards/psionics\|psionics]] 
+^^ look here Ben
+
 ## [[Morgan's Brain/Morgan's Note Cards/The Silva Method\|The Silva Method]]
  
  **Techniques to enter [[Morgan's Brain/Morgan's Note Cards/alpha state\|Alpha State]]**:  
