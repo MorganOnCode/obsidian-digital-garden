@@ -25,6 +25,7 @@ The ultimate in meditation and [[Morgan's Brain/Morgan's Note Cards/The Silva Me
 > - [[Morgan's Brain/Dated Notes/Daily Notes/2025-01-30\|2025-01-30]]
 > - [[Morgan's Brain/Dated Notes/Daily Notes/2025-04-10\|2025-04-10]]
 > - [[Morgan's Brain/Morgan's Note Cards/ball of light visualisation\|ball of light visualisation]]
+> - [[Morgan's Published Vault/Morgan's second HOME\|Morgan's second HOME]]
 > 
 { .block-language-dataview}
 >

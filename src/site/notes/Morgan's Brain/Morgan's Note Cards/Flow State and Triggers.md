@@ -11,8 +11,8 @@ course:: [Primal Learning Udemy Course](https://www.udemy.com/course/primal-lear
 5. Distortion of temporal experience.
 6. Activity becomes intrinsically motivating.
 ## Conditions for flow
-1. Knowing ==what to do next== - [[Morgan's Brain/Morgan's Note Cards/clarity\|clarity]]
-2. Knowing *how to do it* - [[Morgan's Brain/Morgan's Note Cards/ability chain\|ability chain]] 
+1. Knowing ==what to do next== - directional [[Morgan's Brain/Morgan's Note Cards/clarity\|clarity]] while overcoming [[Morgan's Brain/Morgan's Note Cards/uncertainty\|uncertainty]].
+2. Knowing *how to do it* - [[Morgan's Brain/Morgan's Note Cards/ability chain\|competence]] and self-belief. 
 3. Freedom from [[Morgan's Brain/Morgan's Note Cards/Distraction MOC\|distractions]] 
 4. Clear and immediate feedback - [[Morgan's Brain/Morgan's Note Cards/self mentorship\|mentor yourself]], [[coaching\|coaching]], [[speak to customers\|speak to customers]]  
 5. Navigate **flow channel** from low -> highly perceived *challenges* & *skills* - [[Morgan's Brain/Morgan's Note Cards/challenge-to-skill balance\|challenge-to-skill balance]]
@@ -289,7 +289,7 @@ You can constrain timelines ([[Morgan's Brain/Morgan's Note Cards/Parkinson's la
 > ==[[Morgan's Brain/Morgan's Note Cards/there's no such thing as working too hard, there's only a failure of recovery\|there's no such thing as working too hard, there's only a failure of recovery]]==!
 
 ![active recovery over exertion.png|300](/img/user/Attachments/active%20recovery%20over%20exertion.png)
-# [[Morgan's Brain/Morgan's Note Cards/Recovery vs. Relaxation - Rian Doris\|recovery over relaxation]] 
+# [[Morgan's Brain/Morgan's Note Cards/Recovery vs. Relaxation - Rian Doris\|Recovery Over Relaxation]] 
 
 - ^ Increase reward sensitivity during recovery 
 - ! Prepare for the next [[Morgan's Brain/Morgan's Note Cards/Struggle Phase\|Struggle Phase]] and meeting [[Morgan's Brain/Morgan's Note Cards/resistance\|resistance]] in the [[Morgan's Brain/Morgan's Note Cards/War of Art - Steven Pressfield - Shortform\|war of art]] 

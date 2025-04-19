@@ -20,6 +20,17 @@
 7. [[Morgan's Brain/People/Marc Lou\|Marc Lou]]
 8. [[Morgan's Brain/People/Riley Brown\|Riley Brown]]
 
+## Templates
+- [[Morgan's Brain/Morgan's Note Cards/Create a product requirements document PRD to improve ai code\|Create a product requirements document PRD to improve ai code]] 
+- [[Templates/Obsidian templates/Template for Business Ideas Building\|Template for Business Ideas Building]]  
+- [[Morgan's Brain/Morgan's Note Cards/How to build OKRs\|How to build OKRs]] 
+
+## Mindset 
+1. [[Morgan's Brain/Morgan's Note Cards/Flow State and Triggers\|flow state]] 
+2. [[Morgan's Brain/Morgan's Note Cards/optimise for outcomes not inputs\|optimise for outcomes not inputs]]
+3. [[Morgan's Brain/Morgan's Note Cards/start work immediately upon waking\|start working upon waking]] 
+
+
 ## Steps: (draft)
 1. [[Morgan's Brain/Maps of content MOCs/Business Ideas MOC 💡\|business ideas]] - select an idea 
 2. flesh out MVP [[Morgan's Brain/Morgan's Note Cards/step 1\|step 1]] vs. full vision [[Morgan's Brain/Morgan's Note Cards/100 steps ahead\|100 steps ahead]]

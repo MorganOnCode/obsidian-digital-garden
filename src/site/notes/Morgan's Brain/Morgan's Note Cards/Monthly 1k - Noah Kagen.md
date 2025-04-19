@@ -109,18 +109,18 @@ I KNEW people would love the service and pay for it in droves. 
 
 Yet, when we launched, it was complete crickets. 
 
-==I never spent the time making sure people wanted to play online fantasy sports in that way. ==
+==I never spent the time making sure people wanted to play online fantasy sports in that way.==
 
 Expensive lesson learned! 
 
-==Validate your **assumptions**. Validate your business. Talk to people first. Then, build. ==
+==Validate your **assumptions**. Validate your business. Talk to people first. Then, build.==
 Validate. 
 Validate. 
 Validate. 
 
 ## Commandment #4: Find Your Place on the Totem Pole
 
-==Think of a totem pole as a measurement of how important you are to your customer. ==
+==Think of a totem pole as a measurement of how important you are to your customer.==
 *Ranking high* up on the totem pole means that the customer really needs you. 
 *Ranking low* on the totem pole means your products and services are “nice to have.”
 
@@ -183,7 +183,7 @@ Use the damn DAW!
 
 ## Commandment #6: Maintain Momentum
 
-==[[Morgan's Brain/Morgan's Note Cards/momentum\|momentum]] can be your most powerful ally or biggest foe when starting a business. ==
+==[[Morgan's Brain/Morgan's Note Cards/momentum\|momentum]] can be your most powerful ally or biggest foe when starting a business.==
 
 The more [[Morgan's Brain/Morgan's Note Cards/momentum\|momentum]] you have, the easier it is to maintain.
 The less you keep up momentum, the harder it is to generate every time you need it again.
@@ -392,7 +392,7 @@ Write them down.
 
 ## Exercise #4: Go to People Already Spending Money
 
-If you’re stuck on the "golden idea," a great way to find ideas is by ==going to people who are already trying to spend money. ==
+If you’re stuck on the "golden idea," a great way to find ideas is by ==going to people who are already trying to spend money.==
 
 Too many times, people try to convince customers to pay for a solution to a made-up problem, vs. actually solving a problem customers are ALREADY having.
 
@@ -499,7 +499,7 @@ If they like the subject, then you can ask them to pay for a pre-order. If they 
 
 ![Pasted image 20240212192527.png|400](/img/user/Attachments/Pasted%20image%2020240212192527.png)
 
-==The lesson is to **reduce as much risk as possible** before actually creating anything. ==
+==The lesson is to **reduce as much risk as possible** before actually creating anything.==
 Making a book cover takes time, but it takes a lot less time than writing 100 pages. 
 You could even just email the title of your book to your friends and family to see if they would buy the book.
 
@@ -523,8 +523,8 @@ Remember...
 The key thing I’m going to drill into you is to **LIMIT TIME** and focus on the core of your product. Hone in on the problem you’re ACTUALLY solving.
 [[Morgan's Brain/Morgan's Note Cards/Parkinson's law\|Parkinson's law]] 
 
-![Pasted image 20240213091833.png|500](/img/user/Attachments/Pasted%20image%2020240213091833.png)
-## Validation Step #1: Product-I-Zation
+![Pasted image 20240213091833.png|400](/img/user/Attachments/Pasted%20image%2020240213091833.png)
+## Validation Step #1: Product-i-Zation
 
 Most people start by spending a bunch of money and time on: 
 - A website
@@ -572,7 +572,7 @@ I can create content & a course to scale this help.
 	- eg: [Bryan Johnson's Blueprint DON'T DIE Dinner, Sat, Feb 17, 2024, 6:00 PM | Meetup](https://www.meetup.com/healthyplantbasedfood/events/299083506/)
 
 Before you try to open up a retail business, use the home technique.
-==It’s simple: Run the business out of your home. ==
+==It’s simple: Run the business out of your home.==
 
 This is perfect for restaurants, stores, or yoga studios. Basically, anything where a physical presence is required.
 
