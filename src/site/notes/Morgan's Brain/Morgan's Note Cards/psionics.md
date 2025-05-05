@@ -5,30 +5,7 @@
 The ability to summon UAP drones. 
 The ability to tune brain waves and state to a productive level. 
 The ultimate in meditation and [[Morgan's Brain/Morgan's Note Cards/The Silva Method\|Silva Method]] states. 
-
-
----
-**Logs**
-| Source                                                               | Details                                                                                                                                                                                                                                                                                                                        |
-| -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [[Morgan's Brain/Dated Notes/Daily Notes/2025-01-30\|2025-01-30]] | <ul><li>#on/gratitude 🙏 I am grateful for the knowledge that [[Morgan's Brain/Morgan's Note Cards/psionics\|psionics]] exist and we have potential capabilities beyond anything we know. Portals, telepathy, evolved species, thousands of years beyond us.</li></ul>                                                                                                      |
-| [[Morgan's Brain/Dated Notes/Daily Notes/2025-01-29\|2025-01-29]] | <ul><li>#entertainment 📺 consumed [[SkyWatcher\|SkyWatcher]] first part documentary about attracting UAPs via [[Morgan's Brain/Morgan's Note Cards/psionics\|psionics]]</li></ul>                                                                                                                                                                                                      |
-| [[Morgan's Brain/Dated Notes/Daily Notes/2025-01-19\|2025-01-19]] | <ul><li>#entertainment 📺 consumed [Whistleblower reveals UAP retrieval program; object caught on video \\\| NewsNation - YouTube](https://youtu.be/3dtA9w5ldHw?si=Hv4LqdzcN9bGtaqH&t=2251) We are not alone. There are people who can meditate deeply and attract alien craft/drones via '[[Morgan's Brain/Morgan's Note Cards/psionics\|psionics]]' meditation.</li></ul> |
-
-{ .block-language-dataview}
-
-> [!album]- Mentioned in:
->  - [[Morgan's Brain/Dated Notes/Daily Notes/2025-01-19\|2025-01-19]]
-> - [[Morgan's Brain/Dated Notes/Daily Notes/2025-01-22\|2025-01-22]]
-> - [[Morgan's Brain/Dated Notes/Daily Notes/2025-01-21\|2025-01-21]]
-> - [[Morgan's Brain/Dated Notes/Daily Notes/2025-01-29\|2025-01-29]]
-> - [[Morgan's Brain/Dated Notes/Daily Notes/2025-01-30\|2025-01-30]]
-> - [[Morgan's Brain/Dated Notes/Daily Notes/2025-04-10\|2025-04-10]]
-> - [[Morgan's Brain/Morgan's Note Cards/ball of light visualisation\|ball of light visualisation]]
-> - [[Morgan's Published Vault/Morgan's second HOME\|Morgan's second HOME]]
-> 
-{ .block-language-dataview}
->
+And, [The CE-5 Initiative](https://www.youtube.com/@CE5Initiative/videos) 
 
 ---
 
@@ -49,7 +26,7 @@ The ultimate in meditation and [[Morgan's Brain/Morgan's Note Cards/The Silva Me
 	[Skywatcher Part I: The Journey Begins - YouTube](https://www.youtube.com/watch?v=PcuxnqQLuAQ)
 [Just Look Up - Skywatcher.ai](https://www.skywatcher.ai/)
 
-Psionics Team (SkyWatcher): 
+**Psionics Team (SkyWatcher):** 
 [[Morgan's Brain/People/Jordan Jozak\|Jordan Jozak]] 
 [Merciful Martin](https://x.com/Mercifulmartin)
 [[Michael Battista\|Michael Battista]] (Green Berret)
@@ -60,9 +37,46 @@ Psionics Team (SkyWatcher):
 
 [[Human Initiated Contact Experiences (HICE)\|Human Initiated Contact Experiences (HICE)]] 
 
+---
+
 [American Alchemy](https://x.com/AlchemyAmerican) 
 
 [The Sol Foundation](https://thesolfoundation.org/) 
+
+[Disclosure Project Intelligence Archive (DPIA)](https://www.dpiarchive.com/#/) 
+[Dr. Steven Greer - YouTube](https://www.youtube.com/@DrStevenGreer55) + [[Morgan's Brain/People/Steven Greer\|Steven Greer]] 
+[eBooks – Dr. Steven Greer - Official Store](https://shop.siriusdisclosure.com/collections/ebooks) 
+
+---
+
+## Logs
+| Source                                                               | Details                                                                                                                                                                                                                                                                                                                        |
+| -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [[Morgan's Brain/Dated Notes/Daily Notes/2025-04-24\|2025-04-24]] | <ul><li>#podcasts 🎧 I continued listening to [[Morgan's Brain/People/Steven Greer\|Steven Greer]] podcast with [[Jesse Michels\|Jesse Michels]] - fascinating about [[Morgan's Brain/Morgan's Note Cards/psionics\|psionics]] and [[psionics\\|NHI]]</li></ul>                                                                                                                                                                |
+| [[Morgan's Brain/Dated Notes/Daily Notes/2025-04-23\|2025-04-23]] | <ul><li>#podcasts 🎧 I listened to [[Jesse Michels\|Jesse Michels]] podcast - [Steven Greer: “UFO Secrets Are Held By A Global Cabal” - YouTube](https://youtu.be/areO7Mej44E?si=gYkMlireXcJUlW39) - [[Morgan's Brain/People/Steven Greer\|Steven Greer]] about - [[psionics\\|NHI]]</li></ul>                                                                                    |
+| [[Morgan's Brain/Dated Notes/Daily Notes/2025-01-30\|2025-01-30]] | <ul><li>#on/gratitude 🙏 I am grateful for the knowledge that [[Morgan's Brain/Morgan's Note Cards/psionics\|psionics]] exist and we have potential capabilities beyond anything we know. Portals, telepathy, evolved species, thousands of years beyond us.</li></ul>                                                                                                      |
+| [[Morgan's Brain/Dated Notes/Daily Notes/2025-01-29\|2025-01-29]] | <ul><li>#entertainment 📺 consumed [[SkyWatcher\|SkyWatcher]] first part documentary about attracting UAPs via [[Morgan's Brain/Morgan's Note Cards/psionics\|psionics]]</li></ul>                                                                                                                                                                                                      |
+| [[Morgan's Brain/Dated Notes/Daily Notes/2025-01-19\|2025-01-19]] | <ul><li>#entertainment 📺 consumed [Whistleblower reveals UAP retrieval program; object caught on video \\\| NewsNation - YouTube](https://youtu.be/3dtA9w5ldHw?si=Hv4LqdzcN9bGtaqH&t=2251) We are not alone. There are people who can meditate deeply and attract alien craft/drones via '[[Morgan's Brain/Morgan's Note Cards/psionics\|psionics]]' meditation.</li></ul> |
+
+{ .block-language-dataview}
+
+> [!album]- Mentioned in:
+>  - [[Morgan's Brain/Dated Notes/Daily Notes/2025-01-21\|2025-01-21]]
+> - [[Morgan's Brain/Dated Notes/Daily Notes/2025-01-19\|2025-01-19]]
+> - [[Morgan's Brain/Dated Notes/Daily Notes/2025-01-22\|2025-01-22]]
+> - [[Morgan's Brain/Dated Notes/Daily Notes/2025-01-29\|2025-01-29]]
+> - [[Morgan's Brain/Dated Notes/Daily Notes/2025-01-30\|2025-01-30]]
+> - [[Morgan's Brain/Dated Notes/Daily Notes/2025-04-10\|2025-04-10]]
+> - [[Morgan's Brain/Dated Notes/Daily Notes/2025-04-19\|2025-04-19]]
+> - [[Morgan's Brain/Dated Notes/Daily Notes/2025-04-23\|2025-04-23]]
+> - [[Morgan's Brain/Dated Notes/Daily Notes/2025-04-24\|2025-04-24]]
+> - [[Morgan's Brain/Morgan's Note Cards/CE5 Contact Protocol\|CE5 Contact Protocol]]
+> - [[Morgan's Brain/Morgan's Note Cards/ball of light visualisation\|ball of light visualisation]]
+> - [[Morgan's Published Vault/Morgan's second HOME\|Morgan's second HOME]]
+> 
+{ .block-language-dataview}
+>
+
 
 > [!gpt]- Summary Intro to Psionic Abilities 
 > source:: [Preview of Psionic Abilities Overview Part 1 with Capt Randy Cramer - YouTube](https://www.youtube.com/watch?v=-UlzV6rpZMY)
@@ -106,5 +120,3 @@ Psionics Team (SkyWatcher):
 > - Importance of rational belief versus over-belief
 > - Focus on provable, repeatable, verifiable results
 > 
-
-

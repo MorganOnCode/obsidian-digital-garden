@@ -33,6 +33,12 @@ The more you can access that state and operate from a place of calm, collected c
 > [[Morgan's Brain/People/Owen Cook\|RSD Tyler]] talks about getting into state. 
 > A quick check-in with yourself, deep breaths, and a [[Morgan's Brain/Morgan's Note Cards/Three scenes technique\|count down from 3]] 
 
+### Tools for alpha states
+[[Morgan's Brain/Morgan's Note Cards/Muse S headband\|Muse S headband]] + app
+[alphabeats - Master your mind. Master your performance.](https://www.listenalphabeats.com/) 
+
+[Cody Rall MD with Techforpsych](https://www.youtube.com/@CodyRallMD)
+
 
 ### Accessing Alpha state frequencies
 1. Meditation practice will unlock and create muscle memory
@@ -42,4 +48,5 @@ The more you can access that state and operate from a place of calm, collected c
 5. [[Morgan's Brain/Morgan's Note Cards/Silva Centering Method Video\|Silva Centering Method Video]] 
 6. [[Morgan's Brain/Morgan's Note Cards/Three scenes technique\|Three scenes technique]] 
 7. [[Morgan's Brain/Morgan's Note Cards/Alpha State Audio Guide - MindValley\|Alpha State Audio Guide - MindValley]]
+
 

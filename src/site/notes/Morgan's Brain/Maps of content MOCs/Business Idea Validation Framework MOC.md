@@ -16,9 +16,12 @@
 	1. [[Morgan's Brain/Maps of content MOCs/Startup Growth Machine Course MOC\|Startup Growth Machine Course MOC]]
 5. [[Morgan's Brain/People/Pieter Levels\|Peter Levels]]
 	1. [[Morgan's Brain/Morgan's Note Cards/MAKE - Peter Levels\|MAKE - Peter Levels]] 
-6. [[Morgan's Brain/People/John Rush\|John Rush]]
-7. [[Morgan's Brain/People/Marc Lou\|Marc Lou]]
-8. [[Morgan's Brain/People/Riley Brown\|Riley Brown]]
+6. [[Morgan's Brain/People/Michael Taylor\|Mike Taylor]]
+	1. [[Morgan's Brain/Morgan's Note Cards/Content SEO Engineering - Mike Taylor\|Content SEO Engineering - Mike Taylor]] 
+	2. [[AskRally\|AskRally]] 
+7. [[Morgan's Brain/People/John Rush\|John Rush]]
+8. [[Morgan's Brain/People/Marc Lou\|Marc Lou]]
+9. [[Morgan's Brain/People/Riley Brown\|Riley Brown]]
 
 ## Templates
 - [[Morgan's Brain/Morgan's Note Cards/Create a product requirements document PRD to improve ai code\|Create a product requirements document PRD to improve ai code]] 
@@ -29,7 +32,6 @@
 1. [[Morgan's Brain/Morgan's Note Cards/Flow State and Triggers\|flow state]] 
 2. [[Morgan's Brain/Morgan's Note Cards/optimise for outcomes not inputs\|optimise for outcomes not inputs]]
 3. [[Morgan's Brain/Morgan's Note Cards/start work immediately upon waking\|start working upon waking]] 
-
 
 ## Steps: (draft)
 1. [[Morgan's Brain/Maps of content MOCs/Business Ideas MOC 💡\|business ideas]] - select an idea 
@@ -61,4 +63,6 @@
 **Reddits** 
 [r/SideProject - A community for sharing side projects](https://www.reddit.com/r/SideProject/)
 [r/SomebodyMakeThis - free ideas to fulfil quickly](https://www.reddit.com/r/SomebodyMakeThis/) 
+
+[[Templates/GPT LLM Prompts/Prompt - Reddit customer product research\|Prompt - Reddit customer product research]] 
 
