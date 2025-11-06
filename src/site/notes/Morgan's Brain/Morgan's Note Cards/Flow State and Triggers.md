@@ -43,6 +43,7 @@ course:: [Primal Learning Udemy Course](https://www.udemy.com/course/primal-lear
 
 
 
+
 A mix of [[Morgan's Brain/Morgan's Note Cards/Noradrenaline\|noradrenaline]] and [[Morgan's Brain/Morgan's Note Cards/Cortisol\|cortisol]] makes this first phase the hardest.
 
 - ! ==This is [[where all goals go to die\|where all goals go to die]]==.
@@ -97,6 +98,10 @@ The [[Morgan's Brain/Morgan's Note Cards/Engage Phase\|Engage Phase]] is a way t
 Enter your [[Warrior archetype\|Warrior archetype]] 
 You want a high-sensitivity to move into the [[Morgan's Brain/Morgan's Note Cards/Engage Phase\|Engage Phase]] and past the [[Morgan's Brain/Morgan's Note Cards/Struggle Phase\|Struggle Phase]] of flow.
 
+Manufacture [[Morgan's Brain/Morgan's Note Cards/initiation energy\|initiation energy]] to overcome [[Morgan's Brain/Morgan's Note Cards/inertia\|inertia]] 
+Psyche yourself up
+Get pumped! 
+
 Athletes are good at 'engaging' early, before the emotional struggle sets in.
 [[Morgan's Brain/Morgan's Note Cards/I say. We do.\|I say. We do.]] - [[Morgan's Brain/People/Tony Robbins\|Tony Robbins]]
 
@@ -121,7 +126,9 @@ You have to quiet the voice in your head.
 </div></div>
  
 
-[[Morgan's Brain/Morgan's Note Cards/Average knowledge workers\|Average knowledge workers]] find this harder, as the game is more mental than physical 
+[[Morgan's Brain/Morgan's Note Cards/Average knowledge workers\|Average knowledge workers]] find this harder, as the game is more mental than physical.
+
+---
 ## 🖐 5 tactics to ENGAGE! 🚀:
  
 **1. Start easy ([[Morgan's Brain/Morgan's Note Cards/easy to do, easy not to do\|easy to do, easy not to do]])**

@@ -50,3 +50,6 @@ The more you can access that state and operate from a place of calm, collected c
 7. [[Morgan's Brain/Morgan's Note Cards/Alpha State Audio Guide - MindValley\|Alpha State Audio Guide - MindValley]]
 
 
+### Alpha-state in psionics 
+[[Morgan's Brain/Morgan's Note Cards/psionics\|psionics]] 
+[[Human Initiated Contact Experiences (HICE)\|Human Initiated Contact Experiences (HICE)]] - through the CE5 protocol

@@ -6,12 +6,12 @@
 # Objective 
 *written as an achieved affirmation, focused on the person I have become*
 
-<% tp.file.cursor(5) %>
+
 # Key Results 
 *SMARTER format, specific outcomes of tactical actions - actions may iterate, desired results don't*
 ## Key Result 1: ==do X, by Y ...==
 
-<% tp.file.cursor(6) %>
+
 #### Lead Indicator 
 *(Daily/Weekly Progress)*
 - 
@@ -58,22 +58,22 @@
 ---
 
 > [!important]+ **Why** this is an important outcome:
-> <% tp.file.cursor(0) %>
+> 
 
 > [!waypoints]+ Desired Outcomes:
-> - <% tp.file.cursor(1) %>
+> - 
 > 
 
 > [!warning]+ what do I **not** want - [[Morgan's Brain/Morgan's Note Cards/Inversion - Knowing what you don't want\|anti-vision]] 
-> - <% tp.file.cursor(2) %>
+> - 
 >  
 
 > [!brain]+ What will I **learn**? 
-> - <% tp.file.cursor(3) %>
+> - 
 > 
 
 > [!scatterchart]+ What will I **measure**? & How will I measure it? 
-> - <% tp.file.cursor(4) %>
+> - 
 > 
 
 > [!scale]+ Strategy: 

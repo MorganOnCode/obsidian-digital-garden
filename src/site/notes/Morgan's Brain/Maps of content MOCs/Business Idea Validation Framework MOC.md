@@ -24,7 +24,7 @@
 9. [[Morgan's Brain/People/Riley Brown\|Riley Brown]]
 
 ## Templates
-- [[Morgan's Brain/Morgan's Note Cards/Create a product requirements document PRD to improve ai code\|Create a product requirements document PRD to improve ai code]] 
+- [[Morgan's Brain/Morgan's Note Cards/Product Requirements Document (PRD)\|Product Requirements Document (PRD)]] 
 - [[Templates/Obsidian templates/Template for Business Ideas Building\|Template for Business Ideas Building]]  
 - [[Morgan's Brain/Morgan's Note Cards/How to build OKRs\|How to build OKRs]] 
 
@@ -64,5 +64,5 @@
 [r/SideProject - A community for sharing side projects](https://www.reddit.com/r/SideProject/)
 [r/SomebodyMakeThis - free ideas to fulfil quickly](https://www.reddit.com/r/SomebodyMakeThis/) 
 
-[[Templates/GPT LLM Prompts/Prompt - Reddit customer product research\|Prompt - Reddit customer product research]] 
+[[Templates/Prompts LLMs/Prompt - Reddit customer product research\|Prompt - Reddit customer product research]] 
 

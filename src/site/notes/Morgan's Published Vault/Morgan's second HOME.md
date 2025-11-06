@@ -13,6 +13,12 @@ Prospective clients can find me here:
 - [Morgan's LinkedIn Profile](https://www.linkedin.com/in/morgantschofield/)
 - [Morgan's Growth Mentors Profile](https://app.growthmentor.com/mentors/morgan-schofield)
 
+# [[Morgan's Brain/Maps of content MOCs/Decision Making MOC 🌳\|Decision Making Frameworks]] 
+For big changes in life: 
+[[Morgan's Brain/Morgan's Note Cards/Fear Setting (Process)\|Fear Setting (Process)]]
+
+
+
 ## [[Morgan's Brain/Morgan's Note Cards/The Silva Method\|The Silva Method]]
  
  **Techniques to enter [[Morgan's Brain/Morgan's Note Cards/alpha state\|Alpha State]]**:  
@@ -24,9 +30,10 @@ Prospective clients can find me here:
 	6. [[Morgan's Brain/Morgan's Note Cards/Alpha State Audio Guide - MindValley\|Alpha State Audio Guide - MindValley]]
 	7.  [[Morgan's Brain/Morgan's Note Cards/Flow State and Triggers\|Flow state]] 
 
-## [[Morgan's Brain/Morgan's Note Cards/psionics\|psionics]] 
-## SEO Resources
+# [[Morgan's Brain/Morgan's Note Cards/psionics\|psionics]] 
+[[Readwise Highlights/Books/The Sphere Network - Patrick Jackson (Readwise)\|The Sphere Network - Patrick Jackson (Readwise)]] 
 
+## SEO Resources
 [[Morgan's Brain/Morgan's Note Cards/Blogging for business - Ahrefs\|Ahrefs blogging for business]]
 [[Morgan's Brain/Morgan's Note Cards/Content SEO Engineering - Mike Taylor\|Content SEO Engineering]]
 
