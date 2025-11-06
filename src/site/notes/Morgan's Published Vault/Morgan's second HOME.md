@@ -14,6 +14,7 @@ Prospective clients can find me here:
 - [Morgan's Growth Mentors Profile](https://app.growthmentor.com/mentors/morgan-schofield)
 
 # [[Morgan's Brain/Maps of content MOCs/Decision Making MOC 🌳\|Decision Making Frameworks]] 
+[[Morgan's Brain/Maps of content MOCs/Decision Making MOC 🌳\|Decision Making MOC 🌳]] 
 For big changes in life: 
 [[Morgan's Brain/Morgan's Note Cards/Fear Setting (Process)\|Fear Setting (Process)]]
 
